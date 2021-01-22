@@ -1,0 +1,16 @@
+.root{
+    -fx-background-image: url("lujiazui.jpg");
+    -fx-background-position: center bottom;
+    -fx-background-size: 500, 200;
+    -fx-background-repeat: no-repeat;
+}
+
+.button{
+    -fx-font-family: Arial;
+    -fx-background-color: #18C4BA;
+    -fx-text-fill: #ffffff;
+}
+
+.label{
+    -fx-font-family: Arial;
+}

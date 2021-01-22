@@ -1,0 +1,18 @@
+.root{
+    -fx-background-image: url("img.jpeg");
+    -fx-background-position: center bottom;
+    -fx-background-size: 500, 310;
+    -fx-background-repeat: repeat-x;
+}
+
+.button{
+    -fx-background-color: #18C4BA;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Arial;
+}
+
+.label{
+    -fx-font-family: Arial;
+}
+
+

@@ -1,0 +1,17 @@
+.root{
+    -fx-background-image: url("nasdaqimg.jpg");
+    -fx-background-position: right;
+    -fx-background-size: 310, 500;
+    -fx-background-repeat: no-repeat;
+}
+
+.button{
+    -fx-font-family: Arial;
+    -fx-background-color: #18C4BA;
+    -fx-text-fill: #ffffff;
+}
+
+.label{
+    -fx-font-family: Arial;
+}
+
